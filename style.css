@@ -6,6 +6,25 @@
 .btnRight{
   float:right;
 }
-.question{
-  display: none;
+
+.question
+{
+	display:none;
+}
+#q4 h1
+{
+    color:blueviolet;
+}
+.str{
+    font-weight: bold;
+    color:crimson;
+
+}
+#promo .jumbotron {
+  border-radius:20px;
+  padding:40px;
+  background-color:rgba(255,255,255,0.75);
+  max-width:800px;
+  margin:0 auto;
+  background-image:url(bg.jpg);
 }
